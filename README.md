@@ -1,6 +1,6 @@
 **Email Spam Detection using Machine Learning**
 
-This project is a Spam Detection System builtusing Supervised Machine Learning in Python. It classifies emails as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm.
+This project is a Spam Detection System built using Supervised Machine Learning in Python. It classifies emails as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm.
 
 **Project Overview**
 
